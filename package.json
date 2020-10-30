@@ -24,7 +24,7 @@
   "dependencies": {
     "confidence": "3.0.2",
     "glue": "4.0.0",
-    "hapi": "15.1.1",
+    "hapi": "18.1.0",
     "hoek": "4.1.0"
   },
   "devDependencies": {
